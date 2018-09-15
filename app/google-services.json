@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1035968267344",
+    "firebase_url": "https://mobile-x-69844.firebaseio.com",
+    "project_id": "mobile-x-69844",
+    "storage_bucket": "mobile-x-69844.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035968267344:android:17374b3cf1a2b5d5",
+        "android_client_info": {
+          "package_name": "com.example.leekwangyeon.pcmanageapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035968267344-5mncspt8r724squ4rmjsca8ucdsjdoe6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leekwangyeon.pcmanageapplication",
+            "certificate_hash": "b7938dcb158b7377dd77b7b75758d1fb49014b19"
+          }
+        },
+        {
+          "client_id": "1035968267344-hf9gkm2llj4a0gv7jl3dnajm8nrjko5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoGiF4snIitIic2F1dFAO77gpLZDB0SyM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035968267344-hf9gkm2llj4a0gv7jl3dnajm8nrjko5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1035968267344-s6u4kceph6be966enflqh9p6hs8cs48p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "bluePinetree.Mobile-X"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
