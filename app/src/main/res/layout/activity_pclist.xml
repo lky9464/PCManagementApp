@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
 
+    android:id="@+id/activity_pclist"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -8,6 +9,7 @@
     tools:context=".PCListActivity">
 
     <ListView
+        android:id="@+id/PCList"
         android:layout_width="270dp"
         android:layout_height="360dp"
         android:layout_alignParentBottom="true"
